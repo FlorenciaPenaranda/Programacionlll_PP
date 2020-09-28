@@ -1,0 +1,7 @@
+{
+    "name": "penarandaflorencia/programacion3",
+    "description": "PrimerParcial",
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
